@@ -1,1 +1,1 @@
-# Credit-Score-ZIP
+# Loan-Approval-ZIP
